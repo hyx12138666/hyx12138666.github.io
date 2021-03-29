@@ -10,7 +10,7 @@ body {
 	font-size: 12px;
 	line-height: 1.5em; 
 	background-color: #010206;
-	background-image: url(../images/templatemo_body.jpg);
+	background-image: url(../templatemo_body.jpg);
 	background-repeat: repeat-x;
 	background-position: top
 }
@@ -53,7 +53,7 @@ cite span { color: #ccc }
 em { color: #fff; font-weight: 400 }
 
 .tmo_list { margin: 0 0 0 20px; padding: 0; list-style: none }
-.tmo_list li { color: #666666; margin:0 0 5px; padding: 3px 0 3px 15px; background: url(../images/templatmeo_list.jpg) no-repeat scroll 0 10px }
+.tmo_list li { color: #666666; margin:0 0 5px; padding: 3px 0 3px 15px; background: url(../templatmeo_list.jpg) no-repeat scroll 0 10px }
 .tmo_list li a { color: #666666; text-decoration: underline }
 .tmo_list li a:hover { color: #00CCFF; }
 
@@ -87,7 +87,7 @@ em { color: #fff; font-weight: 400 }
 	height: 53px;
 	padding: 0 25px;
 	margin-bottom: 30px;
-    background: url(../images/templatemo_menu.jpg) no-repeat;
+    background: url(../templatemo_menu.jpg) no-repeat;
 }
 
 #templatemo_menu ul {
@@ -111,7 +111,7 @@ em { color: #fff; font-weight: 400 }
 	color: #FFFFFF;
 	text-align: center;
 	text-decoration: none;
-	background: url(../images/templatemo_menu_divider.jpg) center right no-repeat;
+	background: url(../templatemo_menu_divider.jpg) center right no-repeat;
 	padding-top: 15px;
 	padding-right: 44px;
 	padding-bottom: 0;
@@ -156,7 +156,7 @@ em { color: #fff; font-weight: 400 }
 	text-align: center;
 	color: #fff;
 	font-size: 14px;
-	background: url(../images/templatemo_footer.jpg) bottom center no-repeat;
+	background: url(../templatemo_footer.jpg) bottom center no-repeat;
 }
 
 #templatemo_footer a { color: #fff; }
